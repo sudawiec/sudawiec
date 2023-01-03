@@ -20,12 +20,12 @@ Hi, my name is Radek. 👋 I'm Junior Frontend Developer and I'm preparing to ge
 
 <p float="left">
 
-![Html](https://img.shields.io/badge/Html-black?style=for-the-badge&logo=Html5&logoColor=f37f40)
-![Css](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=css3&logoColor=0e7fbf)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+[![Html](https://img.shields.io/badge/Html-black?style=for-the-badge&logo=Html5&logoColor=f37f40)](https://www.w3schools.com/html/default.asp)
+[![Css](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=css3&logoColor=0e7fbf)](https://www.w3schools.com/css/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=f7df1e)](https://javascript.info/)
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=d7614b)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=8934d9)
+[![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=d7614b)](https://git-scm.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=8934d9)](https://getbootstrap.com/)
 
 </p>
 
